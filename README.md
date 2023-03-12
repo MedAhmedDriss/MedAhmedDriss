@@ -56,7 +56,7 @@ I'm currently seeking my first job as a data analyst or business intelligence de
 
 ## Get in touch 📬
 
-- LinkedIn: [MedAhmedDriss](https://www.linkedin.com/in/medahmeddriss/)
+- LinkedIn: [MedAhmedDriss](https://www.linkedin.com/in/med-ahmed-driss/)
 - GitHub: [medahmeddriss](https://github.com/medahmeddriss)
 
 Feel free to reach out if you're interested in working together or have any questions!
