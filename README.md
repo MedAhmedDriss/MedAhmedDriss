@@ -34,7 +34,7 @@ I'm a data analyst with a passion for using data to gain insights and drive deci
 
 ![MedAhmedDriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=medahmeddriss&show_icons=true&theme=vue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=medahmeddriss&color=green&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MedAhmedDriss&color=green&style=flat-square&label=Profile+Views)
 
 
 
